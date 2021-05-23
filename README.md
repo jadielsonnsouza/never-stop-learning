@@ -1,7 +1,7 @@
 # Never Stop Learning
 Repositório dedicado aos conteúdos em aprendizado de cursos, tutoriais...
 
-### A morte do homem começa no instante em que ele desiste de aprender.<br>(Albino Teixeira)
+### _A morte do homem começa no instante em que ele desiste de aprender_.<br>(Albino Teixeira)
 
 Utilizarei este repositório para armazenar meus exercícios de cursos, tutoriais e exemplos. Conforme irei aprendendo e praticando cada código deixarei disponíveis para servir de exemplos e consultas, utilizarei este repositório para em um futuro voltar a consultar e relembrar o conteúdo.
 
