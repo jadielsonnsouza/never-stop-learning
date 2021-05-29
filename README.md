@@ -11,7 +11,7 @@ Fiquem a vontade para opinarem sobre qualquer código, estou em processo de apre
 
 - [x] C#
 - [x] Java
-- [ ] HTML
+- [x] HTML
 - [ ] CSS
 - [ ] JavaScript
 - [ ] Git e GitHub
