@@ -1,4 +1,4 @@
-# Never Stop Learning
+# :books: Never Stop Learning
 Repositório dedicado aos conteúdos em aprendizado de cursos, tutoriais...
 
 >## _A morte do homem começa no instante em que ele desiste de aprender._
@@ -11,8 +11,8 @@ Repositório dedicado aos conteúdos em aprendizado de cursos, tutoriais...
 
 >### Tecnologias abordadas
 
-- [x] C#
-- [x] Java
+- [] C#
+- [] Java
 - [x] HTML
 - [x] CSS
 - [ ] JavaScript
