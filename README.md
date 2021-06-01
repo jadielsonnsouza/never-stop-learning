@@ -9,10 +9,10 @@ Repositório dedicado aos conteúdos em aprendizado de cursos, tutoriais...
 - Fiquem a vontade para opinarem sobre qualquer código, estou em processo de aprendizagem e quero crescer muito profissionalmente, então agradeço qualquer ajuda, crítica que faça-me crescer.
 
 
->### Tecnologias abordadas
+>### :toolbox: Tecnologias abordadas
 
-- [] C#
-- [] Java
+- [ ] C#
+- [ ] Java
 - [x] HTML
 - [x] CSS
 - [ ] JavaScript
