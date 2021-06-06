@@ -16,7 +16,7 @@
 
     <!--Tabelas-->
     <h2>Tabelas</h2>
-    <table border="4">
+    <table border="4" width="100%">
         <caption>Exemplo de tabela HTML</caption>
         <tr>
             <th>Coluna 1</th>
@@ -37,6 +37,15 @@
             <td>linha 3 - coluna 1</td>
             <td>linha 3 - coluna 2</td>
             <td>linha 3 - coluna 3</td>
+        </tr>
+        <tr align="center">
+            <!-- rowsapn ocupa espaço de duas linhas-->
+            <td rowspan="2">Ferrari</td>
+            <!--colspan ocupa espaço de duas colunas-->
+            <td colspan="2"><img src="imagens/ferrari.jpg" alt="ferrari" title="ferrari" width="100"></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">Carro</td>
         </tr>
     </table>
 
