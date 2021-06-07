@@ -8,6 +8,10 @@
     <title>Utilizando CSS</title>
 
     <style>
+        div {
+            font-size: 60px;
+        }
+
         #topo {
             background: blue;
         }
@@ -22,7 +26,7 @@
         }
 
         #borda-conteudo {
-            border: 10px doublek red;
+            border: 10px double red;
         }
 
         .azul {
@@ -33,10 +37,52 @@
             background: grey;
             margin: 10px;
         }
+
+        .formatacao {
+            color: #fff;
+            font-size: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 800;
+            text-decoration: underline;
+            background-color: #0e03ea;
+        }
+
+        .texto {
+            /*
+            px -> tamanho fixo
+            %  -> tamanho relativo
+            em -> tamanho relativo ao container pai
+            */
+            font-size: 0.5em;
+        }
+
+        .texto2 {
+            font-size: 30px;
+        }
     </style>
 </head>
 
 <body>
+
+    <h1>Tamanho de texto</h1>
+
+    <div>
+        <p class="texto">Conteúdo 1</p>
+        <p class="texto2">Conteúdo 2</p>
+    </div>
+
+
+    <br>
+    <hr>
+    <br>
+
+    <h1>Fonte e Cores</h1>
+
+    <p class="formatacao">Conteúdo</p>
+
+    <br>
+    <hr>
+    <br>
 
     <h1>Bordas</h1>
     <div id="borda-conteudo">
