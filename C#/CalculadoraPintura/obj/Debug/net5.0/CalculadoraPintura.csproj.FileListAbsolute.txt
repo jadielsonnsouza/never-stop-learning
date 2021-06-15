@@ -1,0 +1,16 @@
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\bin\Debug\net5.0\CalculadoraPintura.exe
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\bin\Debug\net5.0\CalculadoraPintura.deps.json
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\bin\Debug\net5.0\CalculadoraPintura.runtimeconfig.json
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\bin\Debug\net5.0\CalculadoraPintura.runtimeconfig.dev.json
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\bin\Debug\net5.0\CalculadoraPintura.dll
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\bin\Debug\net5.0\ref\CalculadoraPintura.dll
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\bin\Debug\net5.0\CalculadoraPintura.pdb
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\obj\Debug\net5.0\CalculadoraPintura.csproj.AssemblyReference.cache
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\obj\Debug\net5.0\CalculadoraPintura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\obj\Debug\net5.0\CalculadoraPintura.AssemblyInfoInputs.cache
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\obj\Debug\net5.0\CalculadoraPintura.AssemblyInfo.cs
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\obj\Debug\net5.0\CalculadoraPintura.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\obj\Debug\net5.0\CalculadoraPintura.dll
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\obj\Debug\net5.0\ref\CalculadoraPintura.dll
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\obj\Debug\net5.0\CalculadoraPintura.pdb
+C:\Projetos\Projetos em C#\Calculadora\CalculadoraPintura\obj\Debug\net5.0\CalculadoraPintura.genruntimeconfig.cache
