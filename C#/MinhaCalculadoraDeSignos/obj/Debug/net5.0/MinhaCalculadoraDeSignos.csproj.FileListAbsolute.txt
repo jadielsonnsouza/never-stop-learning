@@ -1,0 +1,16 @@
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.exe
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.deps.json
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.runtimeconfig.json
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.runtimeconfig.dev.json
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.dll
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\bin\Debug\net5.0\ref\MinhaCalculadoraDeSignos.dll
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.pdb
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.csproj.AssemblyReference.cache
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.AssemblyInfoInputs.cache
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.AssemblyInfo.cs
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.csproj.CoreCompileInputs.cache
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.dll
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\obj\Debug\net5.0\ref\MinhaCalculadoraDeSignos.dll
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.pdb
+C:\Projetos\never-stop-learning\C#\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.genruntimeconfig.cache
