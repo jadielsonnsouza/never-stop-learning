@@ -1,3 +1,14 @@
+p {
+    color: red;
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    line-height: 15px;
+    text-shadow: 2px 2px 2px #bbb;
+}
+
 #principal {
     color: red;
     background-color: #00ffff;
@@ -63,4 +74,8 @@
     border-style: solid;
     border-color: red;
     border-radius: 5px;
+}
+
+.linkes {
+    text-decoration: none;
 }
