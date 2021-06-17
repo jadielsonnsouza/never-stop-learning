@@ -46,3 +46,14 @@
 .texto_verde{
     color: green;
 }
+
+#base {
+    height: 10px;
+    background-color: red;
+}
+
+#container {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
