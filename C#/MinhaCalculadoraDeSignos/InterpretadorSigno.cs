@@ -27,11 +27,15 @@ namespace MinhaCalculadoraDeSignos
         public Signo Interpretar(int dia, int mes)
         {
             Signo signo = null;
-            if((dia >= 19 && mes == 2) || (dia <= 20 && mes == 3))
+
+            for (int i = 0; i < signos.Length; i++)
             {
-                signo = new Signo();
-                signo.nome = "Peixe";
-            }
+                if ((dia >= signos[i].diaInicio && mes == signos[i].mesInicio) || (dia <= signos[i].diaFim && mes == signos[i].mesFim))
+                {
+                    signo = signos[i];
+                    break;
+                }
+            }            
             return signo;
         }
     }
